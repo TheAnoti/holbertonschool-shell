@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 lan hello
+chmod 731 hello | ls -l hello
