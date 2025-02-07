@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v .."${f%.html}".html
+cp -v '.'/*.html ".."
