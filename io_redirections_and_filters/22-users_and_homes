@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /root/etc/psswd
+cat /home/root/etc/psswd
